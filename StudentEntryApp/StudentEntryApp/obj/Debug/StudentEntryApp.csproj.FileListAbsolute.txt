@@ -1,0 +1,18 @@
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.exe.config
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.csprojResolveAssemblyReference.cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.StudentEntityUI.resources
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.Properties.Resources.resources
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.csproj.GenerateResource.Cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.exe
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.exe
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.pdb
+C:\Users\Nahid\Desktop\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.exe.config
+C:\Users\Nahid\Desktop\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.exe
+C:\Users\Nahid\Desktop\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.pdb
+C:\Users\Nahid\Desktop\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.exe
+C:\Users\Nahid\Desktop\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.pdb
+C:\Users\Nahid\Desktop\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.csprojResolveAssemblyReference.cache
+C:\Users\Nahid\Desktop\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.StudentEntityUI.resources
+C:\Users\Nahid\Desktop\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.Properties.Resources.resources
+C:\Users\Nahid\Desktop\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.csproj.GenerateResource.Cache
